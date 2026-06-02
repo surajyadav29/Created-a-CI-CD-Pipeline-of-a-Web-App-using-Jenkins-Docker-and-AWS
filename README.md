@@ -298,8 +298,6 @@ Pipeline
 
 # Screenshots
 
-Add screenshots to showcase successful implementation.
-
 ## Jenkins Pipeline Success
 
 ```text
